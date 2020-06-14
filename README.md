@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=eqUwSA0xI-s&pbjreload=10
 
 ------------------------------------------------------------------------
 
-Coding backtracking algoritmh to solve Sudoku Board in Python.
+Coding backtracking algorithm to solve Sudoku Board in Python.
 
 - Original algorithm from Tech with Tim
 https://www.youtube.com/watch?v=eqUwSA0xI-s&pbjreload=10
